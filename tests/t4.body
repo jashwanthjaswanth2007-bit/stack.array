@@ -1,0 +1,1 @@
+int main(){int i,item; for(i=1;i<=5;i++) push(i); item=pop(); printf("Popped: %d\n",item); push(9); display(); return 0;}

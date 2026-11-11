@@ -1,0 +1,4 @@
+Pushed: -1
+Popped: -1
+Stack Underflow
+Popped: -1

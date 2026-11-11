@@ -1,0 +1,1 @@
+int main(){int item; item=pop(); printf("Popped: %d\n",item); display(); return 0;}

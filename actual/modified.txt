@@ -1,0 +1,19 @@
+Pushed: 15
+Pushed: 25
+Pushed: 35
+Stack: 15 25 35 
+Popped: 35
+Pushed: 40
+Pushed: 50
+Pushed: 60
+Popped: 60
+Stack: 15 25 40 50 
+Popped: 50
+Popped: 40
+Popped: 25
+Popped: 15
+Stack Underflow
+Popped: -1
+Stack is Empty
+Stack Underflow
+Popped: -1

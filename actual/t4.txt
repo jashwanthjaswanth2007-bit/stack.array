@@ -1,0 +1,8 @@
+Pushed: 1
+Pushed: 2
+Pushed: 3
+Pushed: 4
+Pushed: 5
+Popped: 5
+Pushed: 9
+Stack: 1 2 3 4 9 

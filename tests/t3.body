@@ -1,0 +1,1 @@
+int main(){int item; push(-1); item=pop(); printf("Popped: %d\n",item); item=pop(); printf("Popped: %d\n",item); return 0;}
